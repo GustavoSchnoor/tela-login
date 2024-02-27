@@ -34,8 +34,8 @@ main {
     overflow: hidden;
 
     background-color: #f0f0f0;
-    width: 300px;
-    height: 600px;
+    width: 350px;
+    height: 750px;
     border-radius: 20px;
     box-shadow: 0px 0px 5px #f0f0f0d8;
 
@@ -47,8 +47,8 @@ main {
     display: block;
     background-color: #191919;
     background-image: url(../imagens/login.jpg);
-    height: 200px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -60,19 +60,19 @@ main {
 }
 
 #formulario h1 {
-    font-size: 1.3em;
+    font-size: 1.7em;
     text-align: center;
     margin-bottom: 10px;
 }
 
 #formulario p {
-    font-size: 1.2em;
+    font-size: 1.6em;
 }
 
 .campo {
-    font-size: 1.2em;
+    font-size: 1.6em;
 }
 
 .subform {
-    font-size: 1.2em;
+    font-size: 1.6em;
 }
