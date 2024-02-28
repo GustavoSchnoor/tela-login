@@ -112,7 +112,7 @@ main {
 }
 
 .subform input:hover {
-    background-image: linear-gradient(to to right, #191919dc 1%, #f0f0f0);
+    background-image: linear-gradient(to right, #191919dc 1%, #f0f0f0);
     cursor: pointer;
 }
 
