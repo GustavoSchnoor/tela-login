@@ -61,7 +61,7 @@ main {
 
 .campo {
     display: block;
-    font-size: 1.6em;
+    font-size: 1.4em;
     height: 40px;
     border-radius: 10px;
     margin: 15px 0px;
@@ -69,6 +69,20 @@ main {
 
 .campo label {
     display: none;
+}
+
+.campo span {
+    font-size: 1.4em;
+    width: 35px;
+}
+
+.campo input {
+    font-size: 1em;
+    width: calc(100% - 42px);
+    height: 100%;
+    transform: translateY(-7px);
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 #formulario h1 {
