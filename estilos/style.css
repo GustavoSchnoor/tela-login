@@ -136,4 +136,8 @@ main {
     cursor: pointer;
 }
 
+.botao span {
+    transform: translate(0px, 4px)
+}
+
 
